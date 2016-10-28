@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C57A42231DC310A400578B8B /* homework3-2-3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "homework3-2-3.playground"; sourceTree = "<group>"; };
 		C5B69AF81DC30D46001FC330 /* homework3-2-all.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "homework3-2-all.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5B69AFB1DC30D46001FC330 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C5B69AFD1DC30D46001FC330 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +23,8 @@
 		C5B69B021DC30D46001FC330 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5B69B051DC30D46001FC330 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C5B69B071DC30D46001FC330 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5B69B0D1DC30D8C001FC330 /* homework3-2-1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "homework3-2-1.playground"; sourceTree = "<group>"; };
+		C5B69B0E1DC30DCF001FC330 /* homework3-2-2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "homework3-2-2.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +41,9 @@
 		C5B69AEF1DC30D45001FC330 = {
 			isa = PBXGroup;
 			children = (
+				C57A42231DC310A400578B8B /* homework3-2-3.playground */,
+				C5B69B0E1DC30DCF001FC330 /* homework3-2-2.playground */,
+				C5B69B0D1DC30D8C001FC330 /* homework3-2-1.playground */,
 				C5B69AFA1DC30D46001FC330 /* homework3-2-all */,
 				C5B69AF91DC30D46001FC330 /* Products */,
 			);
@@ -300,6 +306,7 @@
 				C5B69B0C1DC30D46001FC330 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
